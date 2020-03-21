@@ -30,5 +30,5 @@ IT also neatly braks down the route by steps in case we wanted to create a visua
  * ~~Baseline proof of concept~~
  * Implement interface to test code flexibility
  * Bolster (useful) information output 
- * Develop visual interface (app): iOS and Android
+ * Develop visual interface (app): iOS and Android | BeeWare(?)
  * Obtain more immediate and accurate wait times
