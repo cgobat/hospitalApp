@@ -25,3 +25,10 @@ This is the output of the jSonFile after we call the api request.
 It gives us the optimal route as well as some attributes of the route.
 IT also neatly braks down the route by steps in case we wanted to create a visual representation with our app.
 ![Example Output](jSonInfo.png)
+
+# Action Items
+ * ~~Baseline proof of concept~~
+ * Implement interface to test code flexibility
+ * Bolster (useful) information output 
+ * Develop visual interface (app): iOS and Android
+ * Obtain more immediate and accurate wait times
