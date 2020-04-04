@@ -1,0 +1,135 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 585}, {406, 227}}",
+        "class" : "View",
+        "attributes" : {
+          "name" : "view1",
+          "frame" : "{{153, 356}, {100, 100}}",
+          "background_color" : "RGBA(0.495151,0.454822,0.501873,1.000000)",
+          "border_color" : "RGBA(0.729412,0.470588,0.364706,1.000000)",
+          "class" : "View",
+          "uuid" : "C1CE9DAB-FE7B-403F-BF89-D4EF0BC537CD"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{33, 172}, {300, 46}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "app-title",
+          "text_color" : "RGBA(0.393258,0.345857,0.061447,1.000000)",
+          "frame" : "{{125, 311}, {150, 32}}",
+          "tint_color" : "RGBA(0.000000,0.488140,0.418406,1.000000)",
+          "uuid" : "31B4C9E8-9F4D-4F9D-853D-14437CA2D6C4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "InstaCare",
+          "number_of_lines" : 2,
+          "font_size" : 29,
+          "font_name" : "Avenir-Black"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{33, 196}, {310, 49}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 15,
+          "font_name" : "Avenir-BlackOblique",
+          "frame" : "{{125, 311}, {150, 32}}",
+          "uuid" : "31B4C9E8-9F4D-4F9D-853D-14437CA2D6C4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "When Time Is Everything",
+          "number_of_lines" : 2,
+          "name" : "app-title",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{309, 27}, {50, 52}}",
+        "class" : "Button",
+        "attributes" : {
+          "alpha" : 0,
+          "font_size" : 15,
+          "frame" : "{{160, 311}, {80, 32}}",
+          "tint_color" : "RGBA(0.610487,0.610487,0.610487,1.000000)",
+          "title" : "Button",
+          "uuid" : "F8E55325-85CE-45E7-A66F-06BD59E0518F",
+          "class" : "Button",
+          "font_bold" : false,
+          "name" : "gear",
+          "image_name" : "iob:ios7_gear_outline_256"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{26, 604}, {317, 53}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "text_color" : "RGBA(0.906250,0.933036,1.000000,1.000000)",
+          "frame" : "{{128, 390}, {150, 32}}",
+          "uuid" : "51626F45-713B-4179-ABEE-A68EF6A8FB7B",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Find The Quickest Urgent Care Sites Near You",
+          "number_of_lines" : 2,
+          "font_size" : 20,
+          "font_name" : "HelveticaNeue-Medium"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{26, 719}, {317, 42}}",
+        "class" : "Button",
+        "attributes" : {
+          "border_width" : 0,
+          "action" : "get_started",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Get started",
+          "uuid" : "C9B20A84-D1A2-4B7C-BA94-212FAEEF8BAB",
+          "background_color" : "RGBA(1.000000,0.772321,0.468750,1.000000)",
+          "class" : "Button",
+          "corner_radius" : 3,
+          "border_color" : "RGBA(0.824828,0.851436,0.840033,1.000000)",
+          "name" : "get-started",
+          "font_size" : 20
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {406, 812}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(0.705882,0.847059,0.870588,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "Starter Page",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
