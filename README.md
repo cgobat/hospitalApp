@@ -5,15 +5,12 @@ Will explain and add comments to uploaded files as we go : )
 
 ## iOS App
 
-<img src="Device-natives/iOS/screenshots/IMG-1090.PNG" width="100">landing page</img>
+<img src="Device-natives/iOS/screenshots/IMG-1087.PNG" width="100">landing page</img>
+<img src="Device-natives/iOS/screenshots/IMG-1090.PNG" width="100">Care Results</img>
+<img src="Device-natives/iOS/screenshots/IMG-1091.PNG" width="100">Care Details</img>
+<img src="Device-natives/iOS/screenshots/IMG-1088.PNG" width="100">COVID Testing Results</img>
+<img src="Device-natives/iOS/screenshots/IMG-1089.PNG" width="100">lCOVID Testing Results Map</img>
 
-![Care Results](Device-natives/iOS/screenshots/IMG-1090.PNG)
-
-![Care Details](Device-natives/iOS/screenshots/IMG-1091.PNG)
-
-![COVID Testing Results](Device-natives/iOS/screenshots/IMG-1088.PNG)
-
-![COVID Testing Results Map](Device-natives/iOS/screenshots/IMG-1089.PNG)
 
 
 ## Structure of HospitalStats Content:
