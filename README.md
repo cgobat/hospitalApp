@@ -39,8 +39,8 @@ IT also neatly braks down the route by steps in case we wanted to create a visua
 
 # Action Items
  * ~~Baseline proof of concept~~
- * ~~Implement interface to test code flexibility
- * ~~Bolster (useful) information output 
- * ~~Develop visual interface (app): iOS and Android | Pythonista (?)
- * ~~Obtain more immediate and accurate wait times
+ * ~~Implement interface to test code flexibility~~
+ * ~~Bolster (useful) information output ~~
+ * ~~Develop visual interface (app): iOS and Android | Pythonista (?)~~
+ * ~~Obtain more immediate and accurate wait times~~
  * Prettify app interface (New Color scheme?)
