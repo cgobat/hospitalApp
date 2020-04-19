@@ -5,17 +5,13 @@ Will explain and add comments to uploaded files as we go : )
 
 ## iOS App
 
-| <img src="Device-natives/iOS/screenshots/IMG-1087.PNG" width="200">       | <img src="Device-natives/iOS/screenshots/IMG-1090.PNG" width="200">         | <img src="Device-natives/iOS/screenshots/IMG-1091.PNG" width="200">  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| <img src="Device-natives/iOS/screenshots/IMG-1087.PNG" width="200">       | <img src="Device-natives/iOS/screenshots/IMG-1090.PNG" width="200">         | <img src="Device-natives/iOS/screenshots/IMG-1091.PNG" width="200">  | <img src="Device-natives/iOS/screenshots/IMG-1088.PNG" width="200">  | <img src="Device-natives/iOS/screenshots/IMG-1089.PNG" width="200">  |
+| :-------------: |:-------------:| :-----:|:-----:|:-----:|
+| col 3 is      | right-aligned | $1600 | $1600 | $1600 |
 
 
 
-<img src="Device-natives/iOS/screenshots/IMG-1091.PNG" width="200">
-<img src="Device-natives/iOS/screenshots/IMG-1088.PNG" width="200">
-<img src="Device-natives/iOS/screenshots/IMG-1089.PNG" width="200">
+
 
 
 
