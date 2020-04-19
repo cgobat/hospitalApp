@@ -5,7 +5,7 @@ Will explain and add comments to uploaded files as we go : )
 
 ## iOS App
 
-![Landing Page](Device-natives/iOS/screenshots/IMG-1087.PNG | width=100)
+![Landing Page](Device-natives/iOS/screenshots/IMG-1087.PNG) {:height="50%" width="50%"
 
 ![Care Results](Device-natives/iOS/screenshots/IMG-1090.PNG)
 
