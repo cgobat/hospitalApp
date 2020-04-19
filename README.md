@@ -3,9 +3,9 @@ App to help users efficiently find and get to medical help
 
 Will explain and add comments to uploaded files as we go : )
 
-##iOS App
+## iOS App
 
-![Landing Page](Device-natives/iOS/screenshots/IMG-1087.PNG)
+![Landing Page](Device-natives/iOS/screenshots/IMG-1087.PNG | width=100)
 
 ![Care Results](Device-natives/iOS/screenshots/IMG-1090.PNG)
 
