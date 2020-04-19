@@ -3,6 +3,18 @@ App to help users efficiently find and get to medical help
 
 Will explain and add comments to uploaded files as we go : )
 
+##iOS App
+
+![Landing Page](Device-natives/iOS/screenshots/IMG-1087.PNG)
+
+![Care Results](Device-natives/iOS/screenshots/IMG-1090.PNG)
+
+![Care Details](Device-natives/iOS/screenshots/IMG-1091.PNG)
+
+![COVID Testing Results](Device-natives/iOS/screenshots/IMG-1088.PNG)
+
+![COVID Testing Results Map](Device-natives/iOS/screenshots/IMG-1089.PNG)
+
 
 ## Structure of HospitalStats Content:
 
