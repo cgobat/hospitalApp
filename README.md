@@ -5,7 +5,7 @@ Will explain and add comments to uploaded files as we go : )
 
 ## iOS App
 
-<img src="Device-natives/iOS/assets/IMG-1087.PNG" width="100" height="100">
+<img src="Device-natives/iOS/assets/IMG-1087.png" width="100" height="100">
 
 ![Care Results](Device-natives/iOS/screenshots/IMG-1090.PNG)
 
