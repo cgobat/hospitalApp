@@ -5,7 +5,7 @@ Will explain and add comments to uploaded files as we go : )
 
 ## iOS App
 
-![Landing Page](Device-natives/iOS/screenshots/IMG-1087.PNG) {:height="50%" width="50%"}
+<img src="https://github.com/gw-innovation-lab/hospitalApp/tree/master/Device-natives/iOS/assets/IMG-1087.PNG" width="100" height="100">
 
 ![Care Results](Device-natives/iOS/screenshots/IMG-1090.PNG)
 
