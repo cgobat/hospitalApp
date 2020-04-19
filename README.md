@@ -7,7 +7,7 @@ Will explain and add comments to uploaded files as we go : )
 
 | <img src="Device-natives/iOS/screenshots/IMG-1087.PNG" width="200">       | <img src="Device-natives/iOS/screenshots/IMG-1090.PNG" width="200">         | <img src="Device-natives/iOS/screenshots/IMG-1091.PNG" width="200">  | <img src="Device-natives/iOS/screenshots/IMG-1088.PNG" width="200">  | <img src="Device-natives/iOS/screenshots/IMG-1089.PNG" width="200">  |
 | :-------------: |:-------------:| :-----:|:-----:|:-----:|
-| col 3 is      | right-aligned | $1600 | $1600 | $1600 |
+| Landing Page      | Care Results | Care Details | COVID Testing Results | COVID Testing Map |
 
 
 
