@@ -1,4 +1,4 @@
-# Hospital App
+# Hospital App (InstaCare)
 App to help users efficiently find and get to medical help
 
 Will explain and add comments to uploaded files as we go : )
@@ -39,7 +39,8 @@ IT also neatly braks down the route by steps in case we wanted to create a visua
 
 # Action Items
  * ~~Baseline proof of concept~~
- * Implement interface to test code flexibility
- * Bolster (useful) information output 
- * Develop visual interface (app): iOS and Android | BeeWare(?)
- * Obtain more immediate and accurate wait times
+ * ~~Implement interface to test code flexibility
+ * ~~Bolster (useful) information output 
+ * ~~Develop visual interface (app): iOS and Android | Pythonista (?)
+ * ~~Obtain more immediate and accurate wait times
+ * Prettify app interface (New Color scheme?)
