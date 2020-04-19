@@ -5,13 +5,13 @@
         "nodes" : [
 
         ],
-        "frame" : "{{0, 585}, {406, 227}}",
+        "frame" : "{{0, 599}, {406, 213}}",
         "class" : "View",
         "attributes" : {
           "name" : "view1",
           "frame" : "{{153, 356}, {100, 100}}",
-          "background_color" : "RGBA(0.495151,0.454822,0.501873,1.000000)",
           "border_color" : "RGBA(0.729412,0.470588,0.364706,1.000000)",
+          "background_color" : "RGBA(0.495151,0.454822,0.501873,1.000000)",
           "class" : "View",
           "uuid" : "C1CE9DAB-FE7B-403F-BF89-D4EF0BC537CD"
         },
@@ -21,7 +21,7 @@
         "nodes" : [
 
         ],
-        "frame" : "{{33, 172}, {300, 46}}",
+        "frame" : "{{33, 125}, {300, 46}}",
         "class" : "Label",
         "attributes" : {
           "name" : "app-title",
@@ -33,7 +33,7 @@
           "alignment" : "center",
           "text" : "InstaCare",
           "number_of_lines" : 2,
-          "font_size" : 29,
+          "font_size" : 36,
           "font_name" : "Avenir-Black"
         },
         "selected" : false
@@ -42,7 +42,7 @@
         "nodes" : [
 
         ],
-        "frame" : "{{33, 196}, {310, 49}}",
+        "frame" : "{{23, 159}, {310, 49}}",
         "class" : "Label",
         "attributes" : {
           "font_size" : 15,
@@ -56,7 +56,7 @@
           "name" : "app-title",
           "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
         },
-        "selected" : true
+        "selected" : false
       },
       {
         "nodes" : [
@@ -66,14 +66,14 @@
         "class" : "Button",
         "attributes" : {
           "alpha" : 0,
-          "font_size" : 15,
+          "name" : "gear",
           "frame" : "{{160, 311}, {80, 32}}",
           "tint_color" : "RGBA(0.610487,0.610487,0.610487,1.000000)",
           "title" : "Button",
           "uuid" : "F8E55325-85CE-45E7-A66F-06BD59E0518F",
           "class" : "Button",
           "font_bold" : false,
-          "name" : "gear",
+          "font_size" : 15,
           "image_name" : "iob:ios7_gear_outline_256"
         },
         "selected" : false
@@ -82,7 +82,23 @@
         "nodes" : [
 
         ],
-        "frame" : "{{26, 604}, {317, 53}}",
+        "frame" : "{{0, 462}, {406, 138}}",
+        "class" : "View",
+        "attributes" : {
+          "uuid" : "C1CE9DAB-FE7B-403F-BF89-D4EF0BC537CD",
+          "frame" : "{{153, 356}, {100, 100}}",
+          "border_color" : "RGBA(0.729412,0.470588,0.364706,1.000000)",
+          "name" : "view1",
+          "background_color" : "RGBA(0.899154,0.825920,0.911361,1.000000)",
+          "class" : "View"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{171, 469}, {162, 57}}",
         "class" : "Label",
         "attributes" : {
           "name" : "label1",
@@ -90,8 +106,8 @@
           "frame" : "{{128, 390}, {150, 32}}",
           "uuid" : "51626F45-713B-4179-ABEE-A68EF6A8FB7B",
           "class" : "Label",
-          "alignment" : "center",
-          "text" : "Find The Quickest Urgent Care Sites Near You",
+          "alignment" : "left",
+          "text" : "Nearest COVID Testing",
           "number_of_lines" : 2,
           "font_size" : 20,
           "font_name" : "HelveticaNeue-Medium"
@@ -102,13 +118,13 @@
         "nodes" : [
 
         ],
-        "frame" : "{{26, 719}, {317, 42}}",
+        "frame" : "{{171, 725}, {144, 42}}",
         "class" : "Button",
         "attributes" : {
           "border_width" : 0,
           "action" : "get_started",
           "frame" : "{{80, 104}, {80, 32}}",
-          "title" : "Get started",
+          "title" : "Find Care",
           "uuid" : "C9B20A84-D1A2-4B7C-BA94-212FAEEF8BAB",
           "background_color" : "RGBA(1.000000,0.772321,0.468750,1.000000)",
           "class" : "Button",
@@ -118,15 +134,87 @@
           "font_size" : 20
         },
         "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{171, 608}, {212, 109}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 20,
+          "font_name" : "HelveticaNeue-Medium",
+          "frame" : "{{128, 390}, {150, 32}}",
+          "uuid" : "51626F45-713B-4179-ABEE-A68EF6A8FB7B",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Find The Quickest Urgent Care Sites Near You",
+          "number_of_lines" : 0,
+          "name" : "label1",
+          "text_color" : "RGBA(0.906250,0.933036,1.000000,1.000000)"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{171, 549}, {144, 42}}",
+        "class" : "Button",
+        "attributes" : {
+          "border_width" : 0,
+          "action" : "get_testing",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Get Tested",
+          "uuid" : "C9B20A84-D1A2-4B7C-BA94-212FAEEF8BAB",
+          "background_color" : "RGBA(0.785268,0.760729,0.774751,1.000000)",
+          "class" : "Button",
+          "corner_radius" : 3,
+          "border_color" : "RGBA(0.824828,0.851436,0.840033,1.000000)",
+          "name" : "get-started",
+          "font_size" : 20
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{43, 485}, {91, 88}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{153, 356}, {100, 100}}",
+          "image_name" : "iob:beaker_256",
+          "tint_color" : "RGBA(0.781250,0.781250,1.000000,1.000000)",
+          "class" : "ImageView",
+          "name" : "covidLogo",
+          "uuid" : "1988E858-BB65-4A22-9F0E-62502CBBEF4C"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{43, 657}, {91, 88}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{153, 356}, {100, 100}}",
+          "image_name" : "iob:beaker_256",
+          "class" : "ImageView",
+          "name" : "careLogo",
+          "uuid" : "1988E858-BB65-4A22-9F0E-62502CBBEF4C"
+        },
+        "selected" : false
       }
     ],
     "frame" : "{{0, 0}, {406, 812}}",
     "class" : "View",
     "attributes" : {
-      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
-      "enabled" : true,
       "background_color" : "RGBA(0.705882,0.847059,0.870588,1.000000)",
+      "enabled" : true,
       "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
       "name" : "Starter Page",
       "flex" : ""
     },

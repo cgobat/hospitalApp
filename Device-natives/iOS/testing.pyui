@@ -1,0 +1,263 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 154}, {375, 377}}",
+        "class" : "ScrollView",
+        "attributes" : {
+          "border_width" : 0,
+          "frame" : "{{-29, 84}, {320, 320}}",
+          "uuid" : "E8D3EEE6-5213-4B02-82BA-FB76939D7B5C",
+          "background_color" : "RGBA(0.818976,0.818976,0.818976,1.000000)",
+          "content_height" : 320,
+          "class" : "ScrollView",
+          "content_width" : 320,
+          "name" : "innerScroll",
+          "corner_radius" : 7
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{86, 63}, {210, 58}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "text_color" : "RGBA(0.323346,0.323346,0.323346,1.000000)",
+          "frame" : "{{57, 228}, {150, 32}}",
+          "tint_color" : "RGBA(0.830212,0.830212,0.830212,1.000000)",
+          "uuid" : "0ABAF6A1-1FE3-4A11-A64D-969D9DEA2ECA",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "COVID-19 Test Sites",
+          "font_size" : 20,
+          "font_name" : "AppleSDGothicNeo-Bold"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{18, 567}, {329, 277}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "border_width" : 2,
+          "frame" : "{{138, 337}, {100, 100}}",
+          "border_color" : "RGBA(0.263421,0.263421,0.263421,1.000000)",
+          "corner_radius" : 0,
+          "class" : "ImageView",
+          "uuid" : "B2B63305-7221-486A-92F6-AE0A79B1526A",
+          "name" : "localView"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{14, 193}, {339, 144}}",
+        "class" : "View",
+        "attributes" : {
+          "border_width" : 0,
+          "frame" : "{{138, 357}, {100, 100}}",
+          "class" : "View",
+          "corner_radius" : 14,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "uuid" : "F02F099A-FB1E-423A-B1FF-C0776F43599D",
+          "name" : "case_r"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 238}, {57, 55}}",
+        "class" : "Button",
+        "attributes" : {
+          "font_size" : 15,
+          "frame" : "{{148, 371}, {80, 32}}",
+          "tint_color" : "RGBA(0.437500,0.437500,1.000000,1.000000)",
+          "title" : "Button",
+          "class" : "Button",
+          "uuid" : "04FDBF9D-7D5A-48D8-BD7F-A5105B8053F0",
+          "name" : "siteMarker",
+          "image_name" : "iob:disc_256"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{112, 203}, {4, 124}}",
+        "class" : "View",
+        "attributes" : {
+          "border_width" : 0,
+          "frame" : "{{138, 337}, {100, 100}}",
+          "class" : "View",
+          "corner_radius" : 2,
+          "background_color" : "RGBA(0.339576,0.339576,0.339576,1.000000)",
+          "uuid" : "3F6CA9C1-9F93-4D6E-B30B-3852D4E2A153",
+          "name" : "vertical_r"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{124, 184}, {220, 82}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label_r",
+          "text_color" : "RGBA(0.679463,0.734930,0.776529,1.000000)",
+          "frame" : "{{113, 371}, {150, 32}}",
+          "uuid" : "945B4B24-01B8-40C0-808C-EE2CD9F82302",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "William Mary National Hospital",
+          "font_size" : 19,
+          "font_name" : "AppleSDGothicNeo-Medium"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{124, 264}, {220, 2}}",
+        "class" : "View",
+        "attributes" : {
+          "border_width" : 0,
+          "frame" : "{{138, 337}, {100, 100}}",
+          "class" : "View",
+          "corner_radius" : 4,
+          "background_color" : "RGBA(0.560549,0.560549,0.560549,1.000000)",
+          "uuid" : "3F6CA9C1-9F93-4D6E-B30B-3852D4E2A153",
+          "name" : "horizontal_r"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{163, 270}, {43, 47}}",
+        "class" : "Button",
+        "attributes" : {
+          "name" : "phone_r",
+          "frame" : "{{148, 371}, {80, 32}}",
+          "title" : "",
+          "uuid" : "04FDBF9D-7D5A-48D8-BD7F-A5105B8053F0",
+          "class" : "Button",
+          "font_size" : 15,
+          "image_name" : "iob:ios7_telephone_256"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{231, 270}, {49, 47}}",
+        "class" : "Button",
+        "attributes" : {
+          "image_name" : "iob:ios7_telephone_outline_256",
+          "frame" : "{{148, 371}, {80, 32}}",
+          "tint_color" : "RGBA(0.453886,0.691635,0.521814,1.000000)",
+          "title" : "Button",
+          "uuid" : "04FDBF9D-7D5A-48D8-BD7F-A5105B8053F0",
+          "class" : "Button",
+          "name" : "car_r",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{80, 129}, {220, 3}}",
+        "class" : "View",
+        "attributes" : {
+          "border_width" : 0,
+          "alpha" : 0.69999999999999996,
+          "frame" : "{{138, 337}, {100, 100}}",
+          "class" : "View",
+          "corner_radius" : 4,
+          "background_color" : "RGBA(0.560549,0.560549,0.560549,1.000000)",
+          "uuid" : "3F6CA9C1-9F93-4D6E-B30B-3852D4E2A153",
+          "name" : "horizontal_r"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 895}, {376, 180}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{138, 435}, {100, 100}}",
+          "background_color" : "RGBA(0.217228,0.217228,0.217228,1.000000)",
+          "class" : "View",
+          "name" : "view1",
+          "uuid" : "8C5A9995-0A90-4C68-95E3-3155B8154469"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{58, 999}, {213, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label2",
+          "text_color" : "RGBA(0.966292,0.966292,0.966292,1.000000)",
+          "frame" : "{{113, 469}, {150, 32}}",
+          "uuid" : "262001C7-DC87-4B6B-897C-68BE8B2FFB54",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Innovation Lab Club",
+          "font_size" : 12,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 1006}, {18, 19}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{138, 435}, {100, 100}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "class" : "ImageView",
+          "name" : "copyright",
+          "uuid" : "058318F5-4BDD-47B0-B8B2-5A2E8B634647"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {375, 1046}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(0.977679,0.968750,1.000000,1.000000)",
+      "name" : "",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
