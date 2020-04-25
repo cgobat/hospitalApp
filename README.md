@@ -3,6 +3,8 @@ App to help users efficiently find and get to medical help
 
 Will explain and add comments to uploaded files as we go : )
 
+Link to information about COVID-19 (potentially implement into the app): https://docs.google.com/document/d/1b4oIvqQl68ixg9Lywbl0mhx528z2cOnuyMQsbijRRAQ/edit?usp=sharing
+
 
 ## Structure of HospitalStats Content:
 
