@@ -1,4 +1,6 @@
 # Hospital App (InstaCare)
+[![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 App to help users efficiently find and get to medical help
 
 Will explain and add comments to uploaded files as we go : )
