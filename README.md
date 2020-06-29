@@ -1,5 +1,5 @@
 # COVID Health
-[![Made with SwiftUI](https://miro.medium.com/max/1400/1*_CBr9_Hsh69G3QNveiXtig.png)
+[![Made with SwiftUI](https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png)
 
 App to help users efficiently find and get to medical help
 
