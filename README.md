@@ -16,7 +16,7 @@ This app was developed (almost) entirely in Python using PyUI and Pythonista on 
  * ~~Baseline proof of concept~~
  * ~~Implement interface to test code flexibility~~
  * ~~Bolster (useful) information output~~
- * ~~Develop visual interface (app): iOS and Android | Pythonista (?)~~
+<!--- * ~~Develop visual interface (app): iOS and Android | Pythonista (?)~~ -->
  * ~~Obtain more immediate and accurate wait times~~
  * Beautify app interface (possibly new color scheme, etc.)
  * Work directly with local medical providers (first-party APIs?)
