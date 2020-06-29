@@ -1,7 +1,7 @@
 # COVID Health
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://swift.org/)
 
-[Legal](legal.html)
+[Legal](legal.md)
 
 App to help users efficiently find and get to medical help
 
