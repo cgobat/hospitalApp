@@ -1,5 +1,5 @@
-# Hospital App (InstaCare)
-[![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+# COVID Health
+[![Made with SwiftUI](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 App to help users efficiently find and get to medical help
 
