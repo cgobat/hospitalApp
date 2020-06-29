@@ -1,5 +1,5 @@
 # COVID Health
-[![Made with SwiftUI](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Made with SwiftUI](https://miro.medium.com/max/1400/1*_CBr9_Hsh69G3QNveiXtig.png)
 
 App to help users efficiently find and get to medical help
 
