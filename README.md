@@ -1,6 +1,7 @@
 # COVID Health
-[![Made with SwiftUI]](https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png)
-<a href="legal.html" title="legal">Legal</a>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://swift.org/)
+
+[Legal](legal.html)
 
 App to help users efficiently find and get to medical help
 
